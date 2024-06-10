@@ -1,9 +1,10 @@
-#include <stdio.h>
-
-int main(void){
-	printf(".___. \n");
-	printf("{o,o}\n");
-	printf("/)__)\n");
-	printf("-´-´-\n");
-	return 0;
-}	
+int main() {
+    printf("  *****  \n");
+    printf(" *     * \n");
+    printf("*  o o  *\n");
+    printf("*   ^   *\n");
+    printf("*  '-'  *\n");
+    printf(" *     * \n");
+    printf("  *****  \n");
+    return 0;
+}
